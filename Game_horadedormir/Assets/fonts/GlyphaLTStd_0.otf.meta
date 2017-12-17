@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a88a83af6b5f03e4a9d7867c2992e9b7
+timeCreated: 1478929105
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Glypha LT Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2b1d129fdd6c0b94abcf36ce6b6fad3a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

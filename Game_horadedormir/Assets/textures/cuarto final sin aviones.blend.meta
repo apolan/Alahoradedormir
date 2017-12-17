@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 80549cbf3ef26004286a62f3a42c8dec
+timeCreated: 1480425351
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bat
+    100002: Blox
+    100004: Box001
+    100006: Box004
+    100008: Camera001_Target
+    100010: Canopy
+    100012: cobija
+    100014: //RootNode
+    100016: Cube
+    100018: Cube_001
+    100020: Cube_002
+    100022: Cube_003
+    100024: Cylinder012
+    100026: Cylinder012_001
+    100028: DollArm
+    100030: Dollhouse
+    100032: Drawers
+    100034: Llantas
+    100036: Llantas001
+    100038: Llantas002
+    100040: Luces
+    100042: Luces001
+    100044: paredes
+    100046: piso
+    100048: piso_001
+    100050: Plane
+    100052: Plane002
+    100054: Planks
+    100056: Stool
+    100058: techo
+    400000: Bat
+    400002: Blox
+    400004: Box001
+    400006: Box004
+    400008: Camera001_Target
+    400010: Canopy
+    400012: cobija
+    400014: //RootNode
+    400016: Cube
+    400018: Cube_001
+    400020: Cube_002
+    400022: Cube_003
+    400024: Cylinder012
+    400026: Cylinder012_001
+    400028: DollArm
+    400030: Dollhouse
+    400032: Drawers
+    400034: Llantas
+    400036: Llantas001
+    400038: Llantas002
+    400040: Luces
+    400042: Luces001
+    400044: paredes
+    400046: piso
+    400048: piso_001
+    400050: Plane
+    400052: Plane002
+    400054: Planks
+    400056: Stool
+    400058: techo
+    2300000: Bat
+    2300002: Blox
+    2300004: Box001
+    2300006: Box004
+    2300008: Canopy
+    2300010: cobija
+    2300012: Cube
+    2300014: Cube_001
+    2300016: Cube_002
+    2300018: Cube_003
+    2300020: Cylinder012
+    2300022: Cylinder012_001
+    2300024: DollArm
+    2300026: Dollhouse
+    2300028: Drawers
+    2300030: paredes
+    2300032: piso
+    2300034: piso_001
+    2300036: Plane
+    2300038: Plane002
+    2300040: Planks
+    2300042: Stool
+    2300044: techo
+    3300000: Bat
+    3300002: Blox
+    3300004: Box001
+    3300006: Box004
+    3300008: Canopy
+    3300010: cobija
+    3300012: Cube
+    3300014: Cube_001
+    3300016: Cube_002
+    3300018: Cube_003
+    3300020: Cylinder012
+    3300022: Cylinder012_001
+    3300024: DollArm
+    3300026: Dollhouse
+    3300028: Drawers
+    3300030: paredes
+    3300032: piso
+    3300034: piso_001
+    3300036: Plane
+    3300038: Plane002
+    3300040: Planks
+    3300042: Stool
+    3300044: techo
+    4300000: Blox
+    4300002: Cube_003
+    4300004: Plane
+    4300006: Canopy
+    4300008: Cylinder012_001
+    4300010: Cylinder012
+    4300012: Bat
+    4300014: Box004
+    4300016: piso_001
+    4300018: Plane002
+    4300020: cobija
+    4300022: DollArm
+    4300024: Cube_002
+    4300026: Cube_001
+    4300028: Box001
+    4300030: techo
+    4300032: paredes
+    4300034: Planks
+    4300036: piso
+    4300038: Dollhouse
+    4300040: Stool
+    4300042: Drawers
+    4300044: Cube
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

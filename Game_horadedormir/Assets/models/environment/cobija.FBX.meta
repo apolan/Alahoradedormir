@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 7ccb12aa3a39ac845920eb440b5e00cc
+timeCreated: 1478908587
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box002
+    100002: Box003
+    100004: Box004
+    100006: Box005
+    100008: //RootNode
+    100010: cobija
+    100012: colchon
+    100014: paral
+    100016: paral001
+    100018: piso
+    100020: Plane002
+    100022: tablas
+    100024: tablas001
+    100026: tablas002
+    100028: tablas003
+    100030: tablas004
+    400000: Box002
+    400002: Box003
+    400004: Box004
+    400006: Box005
+    400008: //RootNode
+    400010: cobija
+    400012: colchon
+    400014: paral
+    400016: paral001
+    400018: piso
+    400020: Plane002
+    400022: tablas
+    400024: tablas001
+    400026: tablas002
+    400028: tablas003
+    400030: tablas004
+    2300000: Box002
+    2300002: Box003
+    2300004: Box004
+    2300006: Box005
+    2300008: cobija
+    2300010: colchon
+    2300012: paral
+    2300014: paral001
+    2300016: piso
+    2300018: Plane002
+    2300020: tablas
+    2300022: tablas001
+    2300024: tablas002
+    2300026: tablas003
+    2300028: tablas004
+    3300000: Box002
+    3300002: Box003
+    3300004: Box004
+    3300006: Box005
+    3300008: cobija
+    3300010: colchon
+    3300012: paral
+    3300014: paral001
+    3300016: piso
+    3300018: Plane002
+    3300020: tablas
+    3300022: tablas001
+    3300024: tablas002
+    3300026: tablas003
+    3300028: tablas004
+    4300000: colchon
+    4300002: cobija
+    4300004: Plane002
+    4300006: piso
+    4300008: Box002
+    4300010: Box003
+    4300012: Box004
+    4300014: Box005
+    4300016: tablas
+    4300018: tablas001
+    4300020: tablas002
+    4300022: tablas003
+    4300024: tablas004
+    4300026: paral
+    4300028: paral001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
